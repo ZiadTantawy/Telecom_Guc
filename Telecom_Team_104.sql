@@ -1,2 +1,1 @@
-﻿Create Database Project;
---alooo
+CREATE DATABASE Telecom_Team_104;
