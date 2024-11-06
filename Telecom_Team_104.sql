@@ -1,4 +1,4 @@
-﻿Create Database Telecome_Team_104;
+Create Database Telecome_Team_104;
 
 use Telecome_Team_104;
 
