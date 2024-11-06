@@ -217,11 +217,6 @@ as
 	);
 go
 
-
-
---TODO: All IDs in the project are identity(1,1) except for
---the mobileNo and nationalID
-
 --TODO: Cashback is calculated as 10% of the payment
 --amount.
 
